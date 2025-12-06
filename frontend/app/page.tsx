@@ -240,16 +240,13 @@ export default function HomePage() {
              {/* Logo Image */}
             <img src="/aegis-share_logo.png" alt="Aegis Logo" className="h-8 w-auto object-contain" />
             <div className="h-5 w-[1px] bg-slate-200 hidden sm:block"></div>
-            <span className="text-sm font-semibold text-slate-500 hidden sm:block">Horizon Hacks 2025</span>
+            <span className="text-sm font-semibold text-slate-500 hidden sm:block">Hackathon 2025</span>
           </div>
           
           <div className="flex items-center gap-4">
             <a href="https://github.com/trunghafromvietnam/aegis-share" target="_blank" className="text-sm font-medium text-slate-500 hover:text-indigo-600 transition">
               GitHub
             </a>
-            <span className="px-3 py-1 rounded-full bg-indigo-50 text-indigo-700 text-xs font-bold uppercase tracking-wider border border-indigo-100">
-              Beta v1.0
-            </span>
           </div>
         </div>
       </header>
